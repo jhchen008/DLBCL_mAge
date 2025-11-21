@@ -1,0 +1,575 @@
+dbGaP submitted subject ID	dbGaP accession	Diagnosis	Gene Expression Subgroup	Genetic Subtype	Biopsy Type	Treatment__	Gender	Age	Ann Arbor Stage	LDH Ratio	ECOG Performance Status	Number of Extranodal Sites	IPI Group	IPI Range	Status at Follow_up_ 0 Alive_ 1 Dead	Follow_up Time _yrs	Progression_Free Survival _PFS_ Status_ 0 No Progressoin_ 1 Progression	Progression_Free Survival _PFS_ Time _yrs	Included in Survival Analysis	Donor name	LymphGen	TP53	Dbl.Hit	MCD	ST2	BN2	EZB	N1	IPI_Score	High_LDH	Extranodal_Sites
+CTSP-ACY5	phs001184	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	55						4	0	0	0	0	No	CTSP-ACY5	BN2	0	NEG	1	0	1	0	0			
+CTSP-ACY6	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	60						15	0	0	0	0	No	CTSP-ACY6	MCD	0	NEG	1	0	0	0	0			
+CTSP-ACY8	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	76						15	0	0	0	0	No	CTSP-ACY8	MCD	0	NEG	1	0	0	0	0			
+CTSP-ACYH	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	43						4	0	0	0	0	No	CTSP-ACYH	Other	0	NEG	0	0	0	0	0			
+CTSP-ACYJ	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	53						4	0	0	0	0	No	CTSP-ACYJ	BN2	0	NEG	0	0	1	0	0			
+CTSP-ACYM	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	56						4	0	0	0	0	No	CTSP-ACYM	Other	0	NEG	0	0	0	0	0			
+CTSP-ACYP	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	44						4	0	0	0	0	No	CTSP-ACYP	MCD	0	NEG	1	0	0	0	0			
+CTSP-ACYS	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	48						4	0	0	0	0	No	CTSP-ACYS	BN2	0	NEG	0	0	1	0	0			
+CTSP-ACYV	phs001184	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	71						15	0	0	0	0	No	CTSP-ACYV	BN2/EZB	0	NEG	0	0	1	1	0			
+CTSP-ACYX	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	37						4	0	0	0	0	No	CTSP-ACYX	MCD	0	NEG	1	0	0	0	0			
+CTSP-ACZC	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	84						15	0	0	0	0	No	CTSP-ACZC	A53	1	NEG	0	0	0	0	0			
+CTSP-ACZE	phs001184	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	72						15	0	0	0	0	No	CTSP-ACZE	BN2	0	NEG	0	0	1	0	0			
+CTSP-ACZK	phs001184	Diffuse large B cell lymphoma	ABC	EZB	Pre-treatment	NA	F	53						4	0	0	0	0	No	CTSP-ACZK	EZB	0	NEG	0	0	0	1	0			
+CTSP-ACZS	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	75						15	0	0	0	0	No	CTSP-ACZS	Other	0	POS	0	0	0	0	0			
+CTSP-ACZT	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	44						4	0	0	0	0	No	CTSP-ACZT	Other	0	NEG	0	0	0	0	0			
+CTSP-ACZU	phs001184	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	F	59						4	0	0	0	0	No	CTSP-ACZU	N1	0	NEG	0	0	0	0	1			
+CTSP-ACZW	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	68						15	0	0	0	0	No	CTSP-ACZW	MCD	0	NEG	1	0	0	0	0			
+CTSP-AD05	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	61						15	0	0	0	0	No	CTSP-AD05	MCD	0	NEG	1	0	0	0	0			
+CTSP-AD0Z	phs001184	Diffuse large B cell lymphoma	Unclass	EZB	Pre-treatment	NA	F	71						15	0	0	0	0	No	CTSP-AD0Z	EZB	0	NEG	0	0	0	1	0			
+CTSP-AD13	phs001184	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	51						4	0	0	0	0	No	CTSP-AD13	BN2	0	NEG	0	0	1	0	0			
+CTSP-AD14	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	56						4	0	0	0	0	No	CTSP-AD14	A53	1	NEG	0	0	0	0	0			
+CTSP-AD18	phs001184	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	79						15	0	0	0	0	No	CTSP-AD18	BN2	0	POS	0	0	1	0	0			
+CTSP-AD1A	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	76						15	0	0	0	0	No	CTSP-AD1A	Other	0	NEG	0	0	0	0	0			
+CTSP-AD1R	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	66						15	0	0	0	0	No	CTSP-AD1R	MCD	0	NEG	1	0	0	0	0			
+CTSP-AD1S	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	61						15	0	0	0	0	No	CTSP-AD1S	MCD	0	NA	1	0	0	0	0			
+CTSP-AD1Z	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	57						4	0	0	0	0	No	CTSP-AD1Z	MCD/A53	1	NEG	1	0	0	0	0			
+CTSP-AD28	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	27						4	0	0	0	0	No	CTSP-AD28	ST2	0	NEG	0	1	0	0	0			
+CTSP-AD2E	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	62						15	0	0	0	0	No	CTSP-AD2E	Other	0	NEG	0	0	0	0	0			
+CTSP-AD4C	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	63						15	0	0	0	0	No	CTSP-AD4C	MCD	0	NEG	1	0	0	0	0			
+CTSP-AD4D	phs001184	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	57						4	0	0	0	0	No	CTSP-AD4D	MCD	0	NA	1	0	0	0	0			
+CTSP-AD4F	phs001184	Diffuse large B cell lymphoma	Unclass	MCD	Pre-treatment	NA	F	38						4	0	0	0	0	No	CTSP-AD4F	MCD/ST2	0	NEG	1	1	0	0	0			
+CTSP-AD4K	phs001184	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	73						15	0	0	0	0	No	CTSP-AD4K	BN2/N1	0	NEG	0	0	1	0	1			
+CTSP-AD4Q	phs001184	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	61						15	0	0	0	0	No	CTSP-AD4Q	Other	0	NEG	0	0	0	0	0			
+CTSP-AD4V	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	77						15	0	0	0	0	No	CTSP-AD4V	MCD	0	NEG	1	0	0	0	0			
+CTSP-AD50	phs001184	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	48						4	0	0	0	0	No	CTSP-AD50	BN2	0	NEG	0	0	1	0	0			
+CTSP-AD52	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	56						4	0	0	0	0	No	CTSP-AD52	ST2	0	NA	0	1	0	0	0			
+CTSP-ADRS	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	70						15	0	0	0	0	No	CTSP-ADRS	Other	0	NEG	0	0	0	0	0			
+CTSP-B02B	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	81						15	0	0	0	0	No	CTSP-B02B	Other	0	NEG	0	0	0	0	0			
+CTSP-B02C	phs001184	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	67						15	0	0	0	0	No	CTSP-B02C	BN2	0	NEG	0	0	1	0	0			
+CTSP-B02D	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	56						4	0	0	0	0	No	CTSP-B02D	Other	0	NEG	0	0	0	0	0			
+CTSP-B02E	phs001184	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	50						4	0	0	0	0	No	CTSP-B02E	Other	0	NEG	0	0	0	0	0			
+CTSP-B02F	phs001184	Diffuse large B cell lymphoma	Unclass	EZB	Pre-treatment	NA	F	59						4	0	0	0	0	No	CTSP-B02F	EZB	0	POS	0	0	0	1	0			
+CTSP-B02G	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	74						15	0	0	0	0	No	CTSP-B02G	A53	1	NA	0	0	0	0	0			
+CTSP-B02H	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	53						4	0	0	0	0	No	CTSP-B02H	Other	0	NEG	0	0	0	0	0			
+CTSP-B02I	phs001184	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	75						15	0	0	0	0	No	CTSP-B02I	A53	1	NEG	0	0	0	0	0			
+DLBCL10116	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	F	65						15	0	0	0	0	No	DLBCL10116	A53	1	NEG	0	0	0	0	0			
+DLBCL10450	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	71	2	0.9	2	1	Intermediate	2	1	0.032854209	1	0.024640657	Yes	DLBCL10450	MCD	0	NEG	1	0	0	0	0	2	0	0
+DLBCL10451	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	M	73	2	0.9	3	1	Intermediate	2	1	5.442847365	1	5.442847365	Yes	DLBCL10451	BN2/EZB	0	NEG	0	0	1	1	0	2	0	0
+DLBCL10452	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	77	4	4.1	4	1	High	4	1	0.049281314	1	0.049281314	Yes	DLBCL10452	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL10453	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	67	3	1.16	1	0	Intermediate	3	0	11.54277892	1	1.270362765	Yes	DLBCL10453	A53	1	NEG	0	0	0	0	0	3	1	0
+DLBCL10454	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	62	2	0.51	1	1	Low	1	1	3.8275154	1	1.623545517	Yes	DLBCL10454	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL10455	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	F	76	3	0.8	1	0	Intermediate	2	0	6.357289528	0	6.357289528	Yes	DLBCL10455	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10456	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	54	2	0.68	1	1	Low	0	1	1.262149213	1	1.075975359	Yes	DLBCL10456	ST2	0	NEG	0	1	0	0	0	0	0	0
+DLBCL10457	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	45	2.5	0.748888889	1	0	Low	1	0	10.66940452	0	10.66940452	Yes	DLBCL10457	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL10458	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	59	2	1.29	2	0	Intermediate	2	0	8.227241615	1	0.911704312	Yes	DLBCL10458	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL10459	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	51	2	0.9	1	0	Low	0	0	9.675564682	0	9.675564682	Yes	DLBCL10459	EZB	0	NEG	0	0	0	1	0	0	0	0
+DLBCL10460	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	92	2	1.47	3	2	High	4	0	7.843942505	0	7.843942505	Yes	DLBCL10460	EZB	0	POS	0	0	0	1	0	4	1	1
+DLBCL10461	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	51	2	0.78	2	1	Low	1	0	7.466119097	1	0.878850103	Yes	DLBCL10461	A53	1	POS	0	0	0	0	0	1	0	0
+DLBCL10462	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	73	4	1.6	2	1	High	4	1	1.492128679	1	0.446269678	Yes	DLBCL10462	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL10463	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	73	4	0.71	3	2	High	4	1	0.41615332	1	0.298425736	Yes	DLBCL10463	MCD	0	NEG	1	0	0	0	0	4	0	1
+DLBCL10464	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	53	4	1.5	3	3	High	4	1	1.708418891	1	1.215605749	Yes	DLBCL10464	EZB	0	POS	0	0	0	1	0	4	1	1
+DLBCL10465	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	42	3	1.34	1	0	Intermediate	2	0	2.819986311	0	2.819986311	Yes	DLBCL10465	EZB	0	NEG	0	0	0	1	0	2	1	0
+DLBCL10466	phs001444	Diffuse large B cell lymphoma	Unclass	EZB	Pre-treatment	Immunochemotherapy	M	57	4	1.8	2	1	Intermediate	3	1	1.056810404	1	0.561259411	Yes	DLBCL10466	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL10467	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	72	4	0.92	0	1	Intermediate	2	0	10.90759754	0	10.90759754	Yes	DLBCL10467	MCD	0	NEG	1	0	0	0	0	2	0	0
+DLBCL10469	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	71	2	0.63	1	0	Low	1	1	6.631074606	1	6.631074606	Yes	DLBCL10469	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL10470	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	70	3	0.74	0	0	Intermediate	2	1	4.774811773	1	2.967830253	Yes	DLBCL10470	EZB/A53	1	NEG	0	0	0	1	0	2	0	0
+DLBCL10471	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	83	1	1.13	0	0	Intermediate	2	1	6.488706366	1	6.488706366	Yes	DLBCL10471	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10472	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	63	2	0.92	0	0	Low	1	0	12.678987	0	12.678987	Yes	DLBCL10472	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL10473	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	22	2	0.7	0	0	Low	0	0	7.121149897	0	7.121149897	Yes	DLBCL10473	A53	1	NEG	0	0	0	0	0	0	0	0
+DLBCL10474	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	85						15	1	0.156057495	1	0.156057495	Yes	DLBCL10474	A53	1	NEG	0	0	0	0	0			
+DLBCL10475	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	55	2	1.07	1			12	0	10.70773443	0	10.70773443	Yes	DLBCL10475	EZB	0	POS	0	0	0	1	0		1	
+DLBCL10476	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	63	2	0.97	0	0	Low	1	0	13.68377823	0	13.68377823	Yes	DLBCL10476	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL10477	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	53	4	7.65	4	1	Intermediate	3	1	0.462696783	1	0.290212183	Yes	DLBCL10477	A53	1	NEG	0	0	0	0	0	3	1	0
+DLBCL10478	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	47	2	1.05	1	0	Low	1	1	0.514715948	1	0.514715948	Yes	DLBCL10478	ST2	0	NEG	0	1	0	0	0	1	1	0
+DLBCL10479	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	72	4	0.9	1	1	Intermediate	2	1	2.245037645	1	2.245037645	Yes	DLBCL10479	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10480	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	26	1	0.73	0	1	Low	0	0	10.40109514	0	10.40109514	Yes	DLBCL10480	MCD	0	NEG	1	0	0	0	0	0	0	0
+DLBCL10481	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	58	3	1.17	0	0	Intermediate	2	0	10.22587269	0	10.22587269	Yes	DLBCL10481	EZB	0	NEG	0	0	0	1	0	2	1	0
+DLBCL10482	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	42	1	0.7	0	0	Low	0	0	9.691991786	1	2.105407255	Yes	DLBCL10482	BN2	0	NEG	0	0	1	0	0	0	0	0
+DLBCL10483	phs001444	Diffuse large B cell lymphoma	Unclass	EZB	Pre-treatment	Immunochemotherapy	F	64	4	5.56	3	2	High	5	1	0.585900068	1	0.536618754	Yes	DLBCL10483	EZB/A53	1	POS	0	0	0	1	0	5	1	1
+DLBCL10484	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	54	1	0.77	0	0	Low	0	0	8.651608487	0	8.651608487	Yes	DLBCL10484	Other	0	POS	0	0	0	0	0	0	0	0
+DLBCL10485	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	63	3	1.17	2	0	High	4	1	3.646817248	1	0.678986995	Yes	DLBCL10485	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL10486	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	77	3	0.868888889	1.5			24	0	9.292265572	0	9.292265572	Yes	DLBCL10486	Other	0	NEG	0	0	0	0	0		0	
+DLBCL10487	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	52	2	2.3	2	0	Intermediate	2	0	8.65982204	0	8.65982204	Yes	DLBCL10487	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10488	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	M	48	4	7.06	3	2	High	4	1	0.158795346	1	0.158795346	Yes	DLBCL10488	BN2	0	NEG	0	0	1	0	0	4	1	1
+DLBCL10489	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	67	3	3.72	0	0	Intermediate	3	1	0.008213552	1	0.008213552	Yes	DLBCL10489	EZB	0	POS	0	0	0	1	0	3	1	0
+DLBCL10490	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	48	4	1.28	0	1	Intermediate	2	0	12.62970568	0	12.62970568	Yes	DLBCL10490	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10491	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	59	1	1.2	1	1	Low	1	1	10.52703628	1	10.52703628	Yes	DLBCL10491	EZB	0	NEG	0	0	0	1	0	1	1	0
+DLBCL10492	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	68	2	1.55	1	1	Intermediate	2	1	1.889117043	1	1.481177276	Yes	DLBCL10492	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10493	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	59	2	0.66	1	1	Low	0	0	11.52361396	0	11.52361396	Yes	DLBCL10493	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10494	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	31	1	0.77		2		12	0	9.46201232	0	9.46201232	Yes	DLBCL10494	A53	1	NEG	0	0	0	0	0		0	1
+DLBCL10495	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	49	4	1.34		1	Intermediate	23	0	8.722792608	0	8.722792608	Yes	DLBCL10495	BN2	0	NEG	0	0	1	0	0		1	0
+DLBCL10496	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	83	3	1.95	1	0	Intermediate	3	1	0.030116359	1	0.030116359	Yes	DLBCL10496	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10497	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	76	2		1	1		12	0	12.31759069	0	12.31759069	Yes	DLBCL10497	ST2	0	NEG	0	1	0	0	0			0
+DLBCL10498	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	72						15	1	0.03559206	1	0.03559206	Yes	DLBCL10498	EZB	0	POS	0	0	0	1	0			
+DLBCL10499	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	77	4	5.8	4	1	High	4	1	0.016427105	1	0.016427105	Yes	DLBCL10499	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL10500	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	51	3	1.43	1	0	Intermediate	2	1	1.051334702	1	0.533880903	Yes	DLBCL10500	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10501	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	42	2	0.6	2	1	Low	1	0	1.845311431	0	1.845311431	Yes	DLBCL10501	EZB/A53	1	POS	0	0	0	1	0	1	0	0
+DLBCL10502	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	46	2	0.36	0	0	Low	0	0	1.70568104	0	1.70568104	Yes	DLBCL10502	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10503	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	54	4	2.16	4	1	Intermediate	3	0	5.744010951	1	1.919233402	Yes	DLBCL10503	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10504	phs001444	Diffuse large B cell lymphoma	Unclass	MCD	Pre-treatment	Immunochemotherapy	F	54	4	1.12	1	3	Intermediate	3	1	4.517453799	1	4.517453799	Yes	DLBCL10504	EZB/MCD	0	NEG	1	0	0	1	0	3	1	1
+DLBCL10505	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	54	1		0	1	Low	1	0	2.795345654	0	2.795345654	Yes	DLBCL10505	Other	0	NEG	0	0	0	0	0			0
+DLBCL10506	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	67	1		0	0		12	0	0.287474333	0	0.287474333	Yes	DLBCL10506	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10507	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	64	2	2.05	3	0	Intermediate	3	1	0.698151951	1		Yes	DLBCL10507	A53	1	NEG	0	0	0	0	0	3	1	0
+DLBCL10508	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	64	4	0.87	1	1	Intermediate	2	0	3.143052704	0	3.143052704	Yes	DLBCL10508	MCD	0	NEG	1	0	0	0	0	2	0	0
+DLBCL10509	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	35	4	0.8	1	5	Intermediate	2	0	3.937029432	0	3.937029432	Yes	DLBCL10509	BN2	0	NEG	0	0	1	0	0	2	0	1
+DLBCL10510	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	46	1	0.94	1	1	Low	0	0	2.800821355	0	2.800821355	Yes	DLBCL10510	A53	1	POS	0	0	0	0	0	0	0	0
+DLBCL10512	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	46	4		3	2		34	1	0.55578371	1	0.191649555	Yes	DLBCL10512	EZB	0	POS	0	0	0	1	0			1
+DLBCL10513	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	22	4	2.69	2	2	High	4	0	7.419575633	0	7.419575633	Yes	DLBCL10513	BN2	0	POS	0	0	1	0	0	4	1	1
+DLBCL10514	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	80	3		1	0	Intermediate	23	0	7.523613963	0	7.523613963	Yes	DLBCL10514	EZB	0	NEG	0	0	0	1	0			0
+DLBCL10515	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	74	1		1	0		12	1	1.560574949	1	1.434	Yes	DLBCL10515	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10516	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	84	3	-1	0	0	Intermediate	2	0	8.887063655	0	8.887063655	Yes	DLBCL10516	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10517	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	58	2	1.04	0	0	Low	1	0	8.194387406	0	8.194387406	Yes	DLBCL10517	Other	0	NEG	0	0	0	0	0	1	1	0
+DLBCL10518	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	73	4	4.2	1	1	Intermediate	3	0	7.279945243	0	7.279945243	Yes	DLBCL10518	EZB	0	POS	0	0	0	1	0	3	1	0
+DLBCL10519	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	71	4		1	2		34	1	0.380561259	1		Yes	DLBCL10519	EZB	0	NEG	0	0	0	1	0			1
+DLBCL10520	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	Immunochemotherapy	M	76	3	0.77	2	2	High	4	1	5.563312799	1	5.563312799	Yes	DLBCL10520	N1	0	NEG	0	0	0	0	1	4	0	1
+DLBCL10521	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	62	4	0.97	2	1	Intermediate	3	0	3.359342916	0	3.359342916	Yes	DLBCL10521	Other	0	NEG	0	0	0	0	0	3	0	0
+DLBCL10522	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	49	3	0.9	1	0	Low	1	0	10.36824093	0	10.36824093	Yes	DLBCL10522	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL10523	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	43	4			1		13	0	10.00410678	0	10.00410678	Yes	DLBCL10523	EZB	0	NEG	0	0	0	1	0			0
+DLBCL10524	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	40	1	0.9	1	1	Low	0	0	10.05612594	0	10.05612594	Yes	DLBCL10524	EZB/A53	1	NEG	0	0	0	1	0	0	0	0
+DLBCL10525	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	65	2			0		13	0	10.51334702	0	10.51334702	Yes	DLBCL10525	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10527	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	71	3			0		24	1	0.503764545	1	0.251882272	Yes	DLBCL10527	Other	0	NEG	0	0	0	0	0			0
+DLBCL10528	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	56	3			0		13	0	9.828884326	0	9.828884326	Yes	DLBCL10528	A53	1	NEG	0	0	0	0	0			0
+DLBCL10529	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	51	3			0		13	1	7.947980835	1		Yes	DLBCL10529	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10530	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	79	1	0.9	1	1	Low	1	1	4.596851472	1	4.596851472	Yes	DLBCL10530	MCD	0	NEG	1	0	0	0	0	1	0	0
+DLBCL10531	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	F	75	4					25	0	4.963723477	0	4.963723477	Yes	DLBCL10531	Other	0	NEG	0	0	0	0	0			
+DLBCL10532	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	64	1	0.9	1	1	Low	1	1	0.862422998	1	0.539356605	Yes	DLBCL10532	MCD	0	NEG	1	0	0	0	0	1	0	0
+DLBCL10533	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	71	2			0		13	1	4.002737851	1		Yes	DLBCL10533	A53	1	NEG	0	0	0	0	0			0
+DLBCL10534	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	76	2			1		13	1	0.963723477	1	0.761122519	Yes	DLBCL10534	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10535	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	51	3	2	3	0	Intermediate	3	1	1.552361396	1	1.056810404	Yes	DLBCL10535	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10536	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	18	4					14	0	8.878850103	0	8.878850103	Yes	DLBCL10536	Other	0	NEG	0	0	0	0	0			
+DLBCL10537	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	62	3	0.9	1	0	Intermediate	2	1	0.610540726	1	0.610540726	Yes	DLBCL10537	EZB	0	NEG	0	0	0	1	0	2	0	0
+DLBCL10538	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	46	2	0.9	1	0	Low	0	0	6.880219028	0	6.880219028	Yes	DLBCL10538	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10539	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	29	2	0.9	1	1	Low	0	0	7.685147159	0	7.685147159	Yes	DLBCL10539	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10540	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	52	4			1		13	1	3.104722793	1	0.755646817	Yes	DLBCL10540	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10541	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	42	2		1	0	Low	1	1	8.495550992	1	8.495550992	Yes	DLBCL10541	Other	0	NEG	0	0	0	0	0			0
+DLBCL10542	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	30	4		1	2	Intermediate	23	1	1.01026694	1	0.536618754	Yes	DLBCL10542	MCD	0	NEG	1	0	0	0	0			1
+DLBCL10543	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	57	3	3.11	1	0	Intermediate	2	1	1.029431896	1	0.364134155	Yes	DLBCL10543	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10544	phs001444	Diffuse large B cell lymphoma	GCB	MCD	Pre-treatment	Immunochemotherapy	F	42	1	1.15	1	0	Low	1	0	2.926762491	0	2.926762491	Yes	DLBCL10544	ST2	0	NEG	0	1	0	0	0	1	1	0
+DLBCL10545	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	52	3	0.7	1	1	Low	1	0	16.42436687	0	16.42436687	Yes	DLBCL10545	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL10546	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	74	3	2.02	1	0	Intermediate	3	1	3.937029432	1	2.061601643	Yes	DLBCL10546	BN2/MCD	0	NEG	1	0	1	0	0	3	1	0
+DLBCL10547	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	24	2	1.82	1	0	Low	1	0	10.63655031	0	10.63655031	Yes	DLBCL10547	ST2	0	NEG	0	1	0	0	0	1	1	0
+DLBCL10548	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	M	39	2	1.95	1	1	Low	1	0	11.66872005	0	11.66872005	Yes	DLBCL10548	BN2/A53	1	NEG	0	0	1	0	0	1	1	0
+DLBCL10549	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	74						15	0	6.105407255	0	6.105407255	Yes	DLBCL10549	ST2	0	POS	0	1	0	0	0			
+DLBCL10550	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	73	3		2	0		34	1	1.916495551	1	1.916495551	Yes	DLBCL10550	Other	0	NEG	0	0	0	0	0			0
+DLBCL10552	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	78	3	0.85	1	0	Intermediate	2	1	4.492813142	1	4.492813142	Yes	DLBCL10552	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10553	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	77	1		1	0		12	0	8.585900068	0	8.585900068	Yes	DLBCL10553	ST2	0	NEG	0	1	0	0	0			0
+DLBCL10554	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	75	4	1.1	1	2	High	4	1	5.152635181	1	5.152635181	Yes	DLBCL10554	EZB	0	NEG	0	0	0	1	0	4	1	1
+DLBCL10555	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	68	3	0.66	3	0	Intermediate	3	0	9.916495551	0	9.916495551	Yes	DLBCL10555	EZB	0	NEG	0	0	0	1	0	3	0	0
+DLBCL10564	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	62	2	0.78	0	0	Low	1	1	8.90349076	1	8.90349076	Yes	DLBCL10564	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL10565	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	49	1	0.72	0	0	Low	0	0	9.987679671	1	7.994524298	Yes	DLBCL10565	EZB	0	NEG	0	0	0	1	0	0	0	0
+DLBCL10566	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	23	2	0.73	0	1	Low	0	0	10.54893908	0	10.54893908	Yes	DLBCL10566	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10780	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	52	3	0.9	1	0	Low	1	1	2.694045175	1	1.900068446	Yes	DLBCL10780	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL10781	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	78	2	3.32	1	0	Intermediate	2	0	9.604380561	0	9.604380561	Yes	DLBCL10781	MCD	0	NA	1	0	0	0	0	2	1	0
+DLBCL10782	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	F	70	2	0.82	1	0	Low	1	0	3.564681725	0	3.564681725	Yes	DLBCL10782	BN2/ST2	0	NEG	0	1	1	0	0	1	0	0
+DLBCL10833	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	70	2	1.68	4	1	Intermediate	3	0	0	0	0	No	DLBCL10833	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL10834	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	80	3	16.68	2	0	High	4	0	0	0	0	No	DLBCL10834	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL10835	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	65	3	0.863636364	2	0	Intermediate	3	0	0	0	0	No	DLBCL10835	MCD/A53	1	NEG	1	0	0	0	0	3	0	0
+DLBCL10836	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	56	4	2.186363636	3	1	Intermediate	3	0	0	0	0	No	DLBCL10836	MCD	0	NEG	1	0	0	0	0	3	1	0
+DLBCL10837	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	76	3	1.836363636	1	0	Intermediate	3	0	0	0	0	No	DLBCL10837	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10838	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	62	3	0.809090909	1	0	Intermediate	2	0	0	0	0	No	DLBCL10838	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10839	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	41	3	3.136363636	2	0	Intermediate	3	0	0	0	0	No	DLBCL10839	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL10842	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	80	4	0.66	2	1	Intermediate	3	0	0	0	0	No	DLBCL10842	Other	0	NEG	0	0	0	0	0	3	0	0
+DLBCL10843	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	77	3		2	0		34	0	0	0	0	No	DLBCL10843	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10844	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	67	4	0.92	3	3	High	4	0	0	0	0	No	DLBCL10844	N1	0	NEG	0	0	0	0	1	4	0	1
+DLBCL10845	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	73	2	1.04	2	1	Intermediate	3	0	0	0	0	No	DLBCL10845	A53	1	NEG	0	0	0	0	0	3	1	0
+DLBCL10846	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	83	3	1.3	2		High	45	0	0	0	0	No	DLBCL10846	Other	0	NEG	0	0	0	0	0		1	
+DLBCL10847	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	63	4	1.09	4		High	45	0	0	0	0	No	DLBCL10847	Other	0	NEG	0	0	0	0	0		1	
+DLBCL10848	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	38	1	0.8	1		Low	1	0	0	0	0	No	DLBCL10848	MCD	0	NEG	1	0	0	0	0		0	
+DLBCL10849	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	45	4	6.13	2	2	High	4	0	0	0	0	No	DLBCL10849	Other	0	NEG	0	0	0	0	0	4	1	1
+DLBCL10850	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	55	4	5.8	2	1	Intermediate	3	0	0	0	0	No	DLBCL10850	A53	1	NEG	0	0	0	0	0	3	1	0
+DLBCL10851	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	64	3		2	1		34	0	0	0	0	No	DLBCL10851	A53	1	NEG	0	0	0	0	0			0
+DLBCL10852	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	70	2	0.68	1	0	Low	1	0	0	0	0	No	DLBCL10852	MCD	0	NEG	1	0	0	0	0	1	0	0
+DLBCL10853	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	68	2	0.814285714	2	0	Intermediate	2	0	0	0	0	No	DLBCL10853	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10854	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	34	2		1	0	Low	1	0	0	0	0	No	DLBCL10854	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10855	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	49	4	0.82	3	2	Intermediate	3	0	0	0	0	No	DLBCL10855	Other	0	NEG	0	0	0	0	0	3	0	1
+DLBCL10856	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	68	1		1	0		12	0	0	0	0	No	DLBCL10856	A53	1	NEG	0	0	0	0	0			0
+DLBCL10857	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	58	3	2.185714286	4	0	Intermediate	3	0	0	0	0	No	DLBCL10857	MCD	0	NEG	1	0	0	0	0	3	1	0
+DLBCL10858	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	75	4		4	3	High	45	0	0	0	0	No	DLBCL10858	MCD	0	NEG	1	0	0	0	0			1
+DLBCL10859	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	58	3	1.83	2	0	Intermediate	3	0	0	0	0	No	DLBCL10859	A53	1	NEG	0	0	0	0	0	3	1	0
+DLBCL10860	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	72	4	0.6	3	2	High	4	0	0	0	0	No	DLBCL10860	MCD	0	NEG	1	0	0	0	0	4	0	1
+DLBCL10861	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	18	4		2	5		34	0	0	0	0	No	DLBCL10861	Other	0	NEG	0	0	0	0	0			1
+DLBCL10862	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	71	4		2	0		34	0	0	0	0	No	DLBCL10862	Other	0	NEG	0	0	0	0	0			0
+DLBCL10863	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M					0		4	0	0	0	0	No	DLBCL10863	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10864	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	57	2	0.63	2	1	Low	1	0	0	0	0	No	DLBCL10864	MCD	0	NEG	1	0	0	0	0	1	0	0
+DLBCL10865	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	14	1	0.67	1	1	Low	0	0	0	0	0	No	DLBCL10865	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10866	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	71	4	0.466	2	1	Intermediate	3	0	0	0	0	No	DLBCL10866	MCD	0	NEG	1	0	0	0	0	3	0	0
+DLBCL10867	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	79	2	0.74	2	0	Intermediate	2	0	0	0	0	No	DLBCL10867	A53	1	NEG	0	0	0	0	0	2	0	0
+DLBCL10868	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	45	3	1.11	2	3	High	4	0	0	0	0	No	DLBCL10868	MCD	0	NEG	1	0	0	0	0	4	1	1
+DLBCL10869	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	69	2	0.780952381	2	0	Intermediate	2	0	0	0	0	No	DLBCL10869	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10870	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	60	4	0.98	1	4	Intermediate	2	0	0	0	0	No	DLBCL10870	MCD	0	NEG	1	0	0	0	0	3	0	1
+DLBCL10871	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	60	4	0.98	1	0	Low	1	0	0	0	0	No	DLBCL10871	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10872	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	F					1		4	0	0	0	0	No	DLBCL10872	A53	1	NEG	0	0	0	0	0			0
+DLBCL10873	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	F	75	2	1.32	3	0	Intermediate	3	0	0	0	0	No	DLBCL10873	EZB/N1/ST2/A53	1	NEG	0	1	0	1	1	3	1	0
+DLBCL10874	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	74	3	1.64	3	0	High	4	0	0	0	0	No	DLBCL10874	A53	1	NEG	0	0	0	0	0	4	1	0
+DLBCL10875	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	40	2	1.96	1	1	Low	1	0	0	0	0	No	DLBCL10875	Other	0	NEG	0	0	0	0	0	1	1	0
+DLBCL10876	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	74	2	1.87	1	0	Intermediate	2	0	0	0	0	No	DLBCL10876	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL10877	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	76	4	2.36	3	1	High	4	0	0	0	0	No	DLBCL10877	Other	0	POS	0	0	0	0	0	4	1	0
+DLBCL10878	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	72	4		3	1		34	0	0	0	0	No	DLBCL10878	Other	0	NEG	0	0	0	0	0			0
+DLBCL10879	phs001444	Diffuse large B cell lymphoma	ABC	EZB	Pre-treatment	NA	F					0		4	0	0	0	0	No	DLBCL10879	EZB	0	NEG	0	0	0	1	0			0
+DLBCL10880	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	72	3	2.1	2	1	High	4	0	0	0	0	No	DLBCL10880	MCD	0	NEG	1	0	0	0	0	4	1	0
+DLBCL10881	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	83	1	1	2	1	Intermediate	2	0	0	0	0	No	DLBCL10881	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10883	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	41	2	1.68	2	0	Intermediate	2	0	0	0	0	No	DLBCL10883	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL10884	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	63	3	1.47	3	0	High	4	0	0	0	0	No	DLBCL10884	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL10885	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	76	2		2	2		34	0	0	0	0	No	DLBCL10885	A53	1	NEG	0	0	0	0	0			1
+DLBCL10887	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	62	4	3.99	2	1	High	4	0	0	0	0	No	DLBCL10887	MCD	0	POS	1	0	0	0	0	4	1	0
+DLBCL10888	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	75	1	1.01	4	0	Intermediate	3	0	0	0	0	No	DLBCL10888	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10889	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	25	2	1.37	2	0	Intermediate	2	0	0	0	0	No	DLBCL10889	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL10890	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	46	2	0.68	2	0	Low	1	0	0	0	0	No	DLBCL10890	A53	1	NEG	0	0	0	0	0	1	0	0
+DLBCL10891	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	67	4	1.68	3	1	High	4	0	0	0	0	No	DLBCL10891	MCD	0	NEG	1	0	0	0	0	4	1	0
+DLBCL10892	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	69	2	0.9	2	0	Intermediate	2	0	0	0	0	No	DLBCL10892	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10893	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	56	3	1.380952381	2	0	Intermediate	3	0	0	0	0	No	DLBCL10893	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10894	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	64	4	1.44	2	1	High	4	0	0	0	0	No	DLBCL10894	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL10895	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	68	4		3	1		34	0	0	0	0	No	DLBCL10895	Other	0	NEG	0	0	0	0	0			0
+DLBCL10896	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	72	3	1	2	1	Intermediate	3	0	0	0	0	No	DLBCL10896	BN2	0	NEG	0	0	1	0	0	3	0	0
+DLBCL10897	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	77	2	4.15	2	0	Intermediate	3	0	0	0	0	No	DLBCL10897	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL10898	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	66	1	0.74	2	0	Intermediate	2	0	0	0	0	No	DLBCL10898	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10899	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	80	2	0.82	2	1	Intermediate	2	0	0	0	0	No	DLBCL10899	MCD/A53	1	NEG	1	0	0	0	0	2	0	0
+DLBCL10900	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	53	4	1.89	2			34	0	0	0	0	No	DLBCL10900	MCD	0	NEG	1	0	0	0	0		1	
+DLBCL10901	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	79	3	1.56	5	0	High	4	0	0	0	0	No	DLBCL10901	MCD	0	NEG	1	0	0	0	0	4	1	0
+DLBCL10902	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	35	1	0.69047619	1	1	Low	0	0	0	0	0	No	DLBCL10902	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL10903	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	65	3		2	0		34	0	0	0	0	No	DLBCL10903	Other	0	POS	0	0	0	0	0			0
+DLBCL10904	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	54	2		2	0		12	0	0	0	0	No	DLBCL10904	MCD/A53	1	NEG	1	0	0	0	0			0
+DLBCL10905	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	80	4		3	1		34	0	0	0	0	No	DLBCL10905	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10906	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	73	2	1.185714286	2	0	Intermediate	3	0	0	0	0	No	DLBCL10906	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10907	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	50	2	1.333333333	2	1	Intermediate	2	0	0	0	0	No	DLBCL10907	BN2/MCD	0	NEG	1	0	1	0	0	2	1	0
+DLBCL10908	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	61	2	1.523809524	4	0	Intermediate	3	0	0	0	0	No	DLBCL10908	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10909	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M					1		4	0	0	0	0	No	DLBCL10909	Other	0	NEG	0	0	0	0	0			0
+DLBCL10910	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	66	4	3.59047619	2	1	High	4	0	0	0	0	No	DLBCL10910	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL10911	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	62	4	1.809	2	2	High	5	0	0	0	0	No	DLBCL10911	A53	1	NEG	0	0	0	0	0	5	1	1
+DLBCL10912	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	59	4	1.22	2	1	Intermediate	3	0	0	0	0	No	DLBCL10912	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL10913	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	74	2	1.31	1	0	Intermediate	2	0	0	0	0	No	DLBCL10913	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL10914	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	46	3	10.2	4	0	Intermediate	3	0	0	0	0	No	DLBCL10914	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10915	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	39	2	0.91	1	0	Low	0	0	0	0	0	No	DLBCL10915	N1	0	NEG	0	0	0	0	1	0	0	0
+DLBCL10916	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	82	4		4	1		34	0	0	0	0	No	DLBCL10916	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10917	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	67	4	1.9	3	2	High	5	0	0	0	0	No	DLBCL10917	A53	1	NEG	0	0	0	0	0	5	1	1
+DLBCL10918	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	66	4	2	3	3	High	5	0	0	0	0	No	DLBCL10918	BN2	0	NEG	0	0	1	0	0	5	1	1
+DLBCL10919	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	62	2	2.56	2	0	Intermediate	3	0	0	0	0	No	DLBCL10919	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10920	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	80	2	0.85	2	1	Intermediate	2	0	0	0	0	No	DLBCL10920	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10921	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	56	2	1.7	2	0	Intermediate	2	0	0	0	0	No	DLBCL10921	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10922	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	50	2	1.42	2	1	Intermediate	2	0	0	0	0	No	DLBCL10922	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10923	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	45	4	1.322727273	1	1	Intermediate	2	0	0	0	0	No	DLBCL10923	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10924	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	72	4	6	2	1	High	4	0	0	0	0	No	DLBCL10924	MCD	0	NEG	1	0	0	0	0	4	1	0
+DLBCL10925	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	65	2	0.61	1	1	Low	1	0	0	0	0	No	DLBCL10925	MCD	0	NEG	1	0	0	0	0	1	0	0
+DLBCL10926	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	49	3	2.65	3	1	Intermediate	3	1	0.156057495	1	0.106776181	Yes	DLBCL10926	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10927	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	81	2	0.71	3	0	Intermediate	2	0	0	0	0	No	DLBCL10927	BN2	0	NEG	0	0	1	0	0	2	0	0
+DLBCL10928	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	77	2	0.8	2	0	Intermediate	2	0	0	0	0	No	DLBCL10928	BN2	0	NEG	0	0	1	0	0	2	0	0
+DLBCL10929	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	75	3	0.94	3	1	Intermediate	3	0	0	0	0	No	DLBCL10929	Other	0	NA	0	0	0	0	0	3	0	0
+DLBCL10930	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	65						15	0	0	0	0	No	DLBCL10930	MCD	0	NEG	1	0	0	0	0			
+DLBCL10931	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	52	4	1.81		2		34	0	0	0	0	No	DLBCL10931	BN2	0	NEG	0	0	1	0	0		1	1
+DLBCL10932	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	80	3	1.22	2		High	45	0	0	0	0	No	DLBCL10932	ST2	0	NEG	0	1	0	0	0		1	
+DLBCL10933	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	61	4	2.17	0	1	Intermediate	3	0	9.574264203	0	9.574264203	Yes	DLBCL10933	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10934	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	63	4	7.35	3	3	High	5	1	0.082135524	1	0.082135524	Yes	DLBCL10934	Other	0	NA	0	0	0	0	0	5	1	1
+DLBCL10935	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	M	56	3	1	0	0	Low	1	0	9.483915127	0	9.483915127	Yes	DLBCL10935	BN2	0	NEG	0	0	1	0	0	1	0	0
+DLBCL10936	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	49	4	0.89	2	3	Intermediate	3	0	3.789185489	0	3.789185489	Yes	DLBCL10936	Other	0	NEG	0	0	0	0	0	3	0	1
+DLBCL10937	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	83	2	1.15	1	1	Intermediate	2	1	1.412731006	1	1.166324435	Yes	DLBCL10937	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL10938	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	71	0	0.88		1		12	1	6.291581109	1	6.291581109	Yes	DLBCL10938	MCD	0	NEG	1	0	0	0	0		0	0
+DLBCL10939	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	62	4	1.2	1	1	Intermediate	3	0	11.2881588	0	11.2881588	Yes	DLBCL10939	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL10940	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	70			4			25	0	0	0	0	No	DLBCL10940	MCD	0	NEG	1	0	0	0	0			
+DLBCL10941	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	Immunochemotherapy	M	84	2	1.01	2	0	Intermediate	3	1	0.095824778	1	0.095824778	Yes	DLBCL10941	N1/ST2	0	NEG	0	1	0	0	1	3	1	0
+DLBCL10942	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	60	1	0.89	1		Low	1	0	8.449007529	0	8.449007529	Yes	DLBCL10942	BN2	0	NEG	0	0	1	0	0		0	
+DLBCL10943	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	72	1		1	2	Intermediate	23	1	3.764544832	1	3.625	Yes	DLBCL10943	Other	0	NEG	0	0	0	0	0			1
+DLBCL10945	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	49	2	1.36	1	1	Low	1	1	1.382614648	1	0.898015058	Yes	DLBCL10945	BN2/MCD	0	NEG	1	0	1	0	0	1	1	0
+DLBCL10946	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	46						4	0	0	0	0	No	DLBCL10946	Other	0	NEG	0	0	0	0	0			
+DLBCL10947	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	65						15	0	0	0	0	No	DLBCL10947	BN2	0	NEG	0	0	1	0	0			
+DLBCL10948	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	77	2	0.72	1	1	Low	1	1	0.246406571	1	0.246406571	Yes	DLBCL10948	MCD	0	NEG	1	0	0	0	0	1	0	0
+DLBCL10949	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	91	1		2	1	Intermediate	23	1	0.747433265	1	0.747433265	Yes	DLBCL10949	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10950	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	75	3	0.38	1	1	Intermediate	2	0	1.045859001	1	1.045859001	Yes	DLBCL10950	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL10951	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	78	3	1.28	3		High	45	0	0	0	0	No	DLBCL10951	Other	0	NEG	0	0	0	0	0		1	
+DLBCL10952	phs001444	Diffuse large B cell lymphoma	Unclass	N1	Pre-treatment	Immunochemotherapy	M	41	3	1.57	1	0	Intermediate	2	0	8.479123888	1	1.546885695	Yes	DLBCL10952	N1	0	NEG	0	0	0	0	1	2	1	0
+DLBCL10953	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	M	51	3	1.05	0	0	Intermediate	2	0	7.797399042	0	7.797399042	Yes	DLBCL10953	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL10954	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	47	1	1.23				13	1	1.163586585	1	0.610540726	Yes	DLBCL10954	A53	1	NEG	0	0	0	0	0		1	
+DLBCL10955	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	48	4		0	1		12	0	0	0	0	No	DLBCL10955	Other	0	NEG	0	0	0	0	0			0
+DLBCL10956	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	58	4	4.6		1	Intermediate	23	0	0	0	0	No	DLBCL10956	Other	0	NEG	0	0	0	0	0		1	0
+DLBCL10957	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	45	1		1	0	Low	1	0	0	0	0	No	DLBCL10957	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10958	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	56	4	1.69	1	2	Intermediate	3	1	0.468172485	1	0.468172485	Yes	DLBCL10958	Other	0	NEG	0	0	0	0	0	3	1	1
+DLBCL10959	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	41	2			0		2	0	0	0	0	No	DLBCL10959	Other	0	NEG	0	0	0	0	0			0
+DLBCL10960	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	65	3		1	0	Intermediate	23	0	0	0	0	No	DLBCL10960	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10961	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	77	4			3		35	0	0	0	0	No	DLBCL10961	MCD/A53	1	NEG	1	0	0	0	0			1
+DLBCL10962	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	73	4		2	2	High	45	0	0	0	0	No	DLBCL10962	Other	0	NEG	0	0	0	0	0			1
+DLBCL10963	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	81						15	0	0	0	0	No	DLBCL10963	Other	0	NEG	0	0	0	0	0			
+DLBCL10964	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	76	4		0	1	Intermediate	23	0	0	0	0	No	DLBCL10964	A53	1	NEG	0	0	0	0	0			0
+DLBCL10965	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	60	3		1	0		12	0	0	0	0	No	DLBCL10965	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10966	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	55	3		1	0		12	0	0	0	0	No	DLBCL10966	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10967	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	57						4	0	0	0	0	No	DLBCL10967	MCD	0	NEG	1	0	0	0	0			
+DLBCL10968	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	85	3		2	0		34	0	0	0	0	No	DLBCL10968	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10969	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	51	4		3	2		34	0	0	0	0	No	DLBCL10969	BN2	0	NEG	0	0	1	0	0			1
+DLBCL10970	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	25	2		0	0	Low	1	0	0	0	0	No	DLBCL10970	Other	0	NEG	0	0	0	0	0			0
+DLBCL10971	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	68	3		0	0	Intermediate	23	0	0	0	0	No	DLBCL10971	Other	0	NEG	0	0	0	0	0			0
+DLBCL10972	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	62	4		0	2		34	0	0	0	0	No	DLBCL10972	Other	0	NEG	0	0	0	0	0			1
+DLBCL10973	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	66						15	0	0	0	0	No	DLBCL10973	N1	0	NEG	0	0	0	0	1			
+DLBCL10974	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	44	4		0	1		12	0	0	0	0	No	DLBCL10974	Other	0	NEG	0	0	0	0	0			0
+DLBCL10975	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	57	4		1	1		12	0	0	0	0	No	DLBCL10975	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10977	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	78	2		1	0		12	0	0	0	0	No	DLBCL10977	Other	0	NEG	0	0	0	0	0			0
+DLBCL10978	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	74	3		4			35	0	0	0	0	No	DLBCL10978	ST2	0	NEG	0	1	0	0	0			
+DLBCL10979	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	75	3		2	0		34	0	0	0	0	No	DLBCL10979	Other	0	NEG	0	0	0	0	0			0
+DLBCL10980	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	70	4		0	1	Intermediate	23	0	0	0	0	No	DLBCL10980	Other	0	NEG	0	0	0	0	0			0
+DLBCL10981	phs001444	Diffuse large B cell lymphoma	Unclass	EZB	Pre-treatment	NA	M	75	2		1	0		12	0	0	0	0	No	DLBCL10981	EZB	0	NEG	0	0	0	1	0			0
+DLBCL10982	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	57	4		2	1	Intermediate	23	0	0	0	0	No	DLBCL10982	Other	0	NEG	0	0	0	0	0			0
+DLBCL10983	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	42						4	0	0	0	0	No	DLBCL10983	MCD	0	NEG	1	0	0	0	0			
+DLBCL10984	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	75	1		0	0		12	0	0	0	0	No	DLBCL10984	MCD	0	NEG	1	0	0	0	0			0
+DLBCL10985	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	54	3	2.2	2			34	0	0	0	0	No	DLBCL10985	N1	0	NEG	0	0	0	0	1		1	
+DLBCL10986	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	F	62	1	0.9	0	1	Low	1	0	7.994524298	0	7.994524298	Yes	DLBCL10986	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL10987	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	50						4	0	0	0	0	No	DLBCL10987	MCD	0	NEG	1	0	0	0	0			
+DLBCL10988	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	60						4	0	0	0	0	No	DLBCL10988	A53	1	NEG	0	0	0	0	0			
+DLBCL10989	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	75	3	2.5	4	1	High	4	0	0	0	0	No	DLBCL10989	A53	1	NEG	0	0	0	0	0	4	1	0
+DLBCL10990	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	45	2	2.73	1	0	Low	1	0	6.477754962	0	6.477754962	Yes	DLBCL10990	Other	0	NEG	0	0	0	0	0	1	1	0
+DLBCL10991	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	69	2	1.34	0	1	Intermediate	2	0	0	0	0	No	DLBCL10991	BN2/MCD	0	NEG	1	0	1	0	0	2	1	0
+DLBCL10992	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	90						15	0	0	0	0	No	DLBCL10992	MCD	0	NEG	1	0	0	0	0			
+DLBCL10993	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	46	3	-1	0	0	Low	1	0	6.762491444	0	6.762491444	Yes	DLBCL10993	BN2	0	NEG	0	0	1	0	0	1	0	0
+DLBCL10994	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	33						4	0	0	0	0	No	DLBCL10994	Other	0	POS	0	0	0	0	0			
+DLBCL10995	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	58						4	0	0	0	0	No	DLBCL10995	N1	0	NEG	0	0	0	0	1			
+DLBCL10996	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	61	4			1		24	0	0	0	0	No	DLBCL10996	BN2	0	NEG	0	0	1	0	0			0
+DLBCL10997	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	41	3	2.85	1	1	Intermediate	2	1	1.215605749	1	0.884325804	Yes	DLBCL10997	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL10998	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	57	4	2.51	1	1	Intermediate	2	1	1.169062286	1	1.127994524	Yes	DLBCL10998	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL10999	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	74	2	1.32	1	0	Intermediate	2	1	0.210814511	1	0.210814511	Yes	DLBCL10999	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL11000	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	64						15	0	0	0	0	No	DLBCL11000	MCD	0	NEG	1	0	0	0	0			
+DLBCL11001	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	73	2	0.84	1	0	Low	1	1	0.517453799	1	0.517453799	Yes	DLBCL11001	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11002	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	F	74	4	1.64	2	1	High	4	1	1.544147844	1	0.76659822	Yes	DLBCL11002	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL11003	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	77	2	-1	1	0	Low	1	1	0.366872005	1	0.120465435	Yes	DLBCL11003	Other	0	NA	0	0	0	0	0	1	0	0
+DLBCL11004	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	81	3	0.88	1	0	Intermediate	2	1	1.409993155	1	0.720054757	Yes	DLBCL11004	MCD	0	NEG	1	0	0	0	0	2	0	0
+DLBCL11005	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	Immunochemotherapy	M	67	4	1.75	0	2	High	4	1	0.944558522	1	0.585900068	Yes	DLBCL11005	N1	0	POS	0	0	0	0	1	4	1	1
+DLBCL11180	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	62	4	2.12	1	3	High	4	1	0.878850103	1	0.281998631	Yes	DLBCL11180	Other	0	NEG	0	0	0	0	0	4	1	1
+DLBCL11181	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	75	3	1.57	2	0	High	4	1	0.142368241	1	0.142368241	Yes	DLBCL11181	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL11182	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	56	2	1.22	1	1	Low	1	1	2.140999316	1	0.741957563	Yes	DLBCL11182	MCD	0	NEG	1	0	0	0	0	1	1	0
+DLBCL11184	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	84	3	0.38	0	0	Intermediate	2	0	0	0	0	No	DLBCL11184	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11185	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	76	3	1.11	1	0	Intermediate	3	0	5.754962355	0	5.754962355	Yes	DLBCL11185	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL11186	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	71	1	1.32	0	0	Intermediate	2	0	10.0862423	0	10.0862423	Yes	DLBCL11186	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL11187	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	65	3	1.06	1	0	Intermediate	3	0	0	0	0	No	DLBCL11187	MCD	0	NEG	1	0	0	0	0	3	1	0
+DLBCL11188	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	59	4	0.56				13	1	1.023956194	1	0.372347707	Yes	DLBCL11188	Other	0	NEG	0	0	0	0	0		0	
+DLBCL11191	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	78	3	1.73	2	0	High	4	1	1.924709103	1	1.11156742	Yes	DLBCL11191	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL11193	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	48	2	0.91	0	0	Low	0	0	3.972621492	0	3.972621492	Yes	DLBCL11193	EZB/ST2/A53	1	POS	0	1	0	1	0	0	0	0
+DLBCL11194	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	M	70	4	1.68	0.5	2.5	High	4	0	0	0	0	No	DLBCL11194	BN2	0	NEG	0	0	1	0	0	4	1	1
+DLBCL11195	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	69	2	2.55	4	1	Intermediate	3	1	0.238193018	1	0.238193018	Yes	DLBCL11195	MCD	0	NEG	1	0	0	0	0	3	1	0
+DLBCL11196	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	F	64	4	1.26	0	1	Intermediate	3	0	2.559890486	0	2.559890486	Yes	DLBCL11196	ST2	0	NEG	0	1	0	0	0	3	1	0
+DLBCL11197	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	62	3	1.94	0	0	Intermediate	3	1	0.131416838	1	0.131416838	Yes	DLBCL11197	MCD/A53	1	NEG	1	0	0	0	0	3	1	0
+DLBCL11201	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	84	1	0.96	2	1	Intermediate	2	0	0	0	0	No	DLBCL11201	MCD	0	NEG	1	0	0	0	0	2	0	0
+DLBCL11202	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	32	4	2.02	2	1	Intermediate	3	0	6.001368925	0	6.001368925	Yes	DLBCL11202	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL11203	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	Immunochemotherapy	M	38	4	1.74	1	2	Intermediate	3	1	0.459958932	1	0.323066393	Yes	DLBCL11203	N1	0	NEG	0	0	0	0	1	3	1	1
+DLBCL11204	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	76						5	0	0	0	0	No	DLBCL11204	Other	0	NEG	0	0	0	0	0			
+DLBCL11205	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	68	3	0.78	1	0	Intermediate	2	0	5.678302533	0	5.678302533	Yes	DLBCL11205	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11206	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	76	1	0.78	2	1	Intermediate	2	1	6.299794661	1	6.299794661	Yes	DLBCL11206	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11208	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	27	2	0.855555556	0	0	Low	0	1	1.070499658	1	0.290212183	Yes	DLBCL11208	BN2	0	NEG	0	0	1	0	0	0	0	0
+DLBCL11209	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	46	4	1.12	0	2	Intermediate	3	1	0.205338809	1	0.205338809	Yes	DLBCL11209	BN2	0	NEG	0	0	1	0	0	3	1	1
+DLBCL11211	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	71	2		0	0		12	0	7.030800821	0	7.030800821	Yes	DLBCL11211	BN2	0	NEG	0	0	1	0	0			0
+DLBCL11213	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	NA	F	74						5	0	0	0	0	No	DLBCL11213	BN2	0	NEG	0	0	1	0	0			
+DLBCL11242	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	34	1	1.02	0	1	Low	1	0	5.765913758	0	5.765913758	Yes	DLBCL11242	MCD	0	NEG	1	0	0	0	0	1	1	0
+DLBCL11255	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	M	64						15	0	0	0	0	No	DLBCL11255	Other	0	POS	0	0	0	0	0			
+DLBCL11256	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	F	58						4	0	0	0	0	No	DLBCL11256	MCD	0	NEG	1	0	0	0	0			
+DLBCL11257	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Relapse	Ibrutinib monotherapy	M	55						4	0	0	0	0	No	DLBCL11257	Other	0	NEG	0	0	0	0	0			
+DLBCL11258	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Relapse	Ibrutinib monotherapy	M	86						15	0	0	0	0	No	DLBCL11258	BN2	0	NEG	0	0	1	0	0			
+DLBCL11259	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	M	72						15	0	0	0	0	No	DLBCL11259	Other	0	POS	0	0	0	0	0			
+DLBCL11260	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	M	47						4	0	0	0	0	No	DLBCL11260	Other	0	NEG	0	0	0	0	0			
+DLBCL11261	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	M	60						15	0	0	0	0	No	DLBCL11261	Other	0	NEG	0	0	0	0	0			
+DLBCL11262	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	Ibrutinib monotherapy	F	60						15	0	0	0	0	No	DLBCL11262	Other	0	NEG	0	0	0	0	0			
+DLBCL11271	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	74						5	0	0	0	0	No	DLBCL11271	MCD	0	NEG	1	0	0	0	0			
+DLBCL11300	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	69						5	0	0	0	0	No	DLBCL11300	Other	0	NEG	0	0	0	0	0			
+DLBCL11346	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	65	4	0.44	1	1	Intermediate	2	0	3.726214921	1	0.802190281	Yes	DLBCL11346	A53	1	NEG	0	0	0	0	0	2	0	0
+DLBCL11353	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	M	58	4	0.47	1	4	Intermediate	2	0	4.599589322	1	1.226557153	Yes	DLBCL11353	MCD	0	POS	1	0	0	0	0	2	0	1
+DLBCL11428	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	F	52	4	2.619047619	2	2	High	4	0	0	0	0	No	DLBCL11428	EZB	0	NEG	0	0	0	1	0	4	1	1
+DLBCL11429	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	73	2	1.461904762	4	2	High	4	0	0	0	0	No	DLBCL11429	BN2	0	NEG	0	0	1	0	0	4	1	1
+DLBCL11430	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	42	3	0.85	2	1	Intermediate	2	0	0	0	0	No	DLBCL11430	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11431	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	56	2	1.13	2	1	Intermediate	2	0	0	0	0	No	DLBCL11431	Other	0	POS	0	0	0	0	0	2	1	0
+DLBCL11432	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	66	1	0.74	2	1	Intermediate	2	0	0	0	0	No	DLBCL11432	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11433	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	66	1	0.28	2	1	Intermediate	2	0	0	0	0	No	DLBCL11433	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11434	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	M	55	2	1.19	3	1	Intermediate	2	0	0	0	0	No	DLBCL11434	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL11435	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	M	77	4	0.8		1	Intermediate	23	0	0	0	0	No	DLBCL11435	BN2	0	NEG	0	0	1	0	0		0	0
+DLBCL11436	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	51	4	0.85	2	1	Intermediate	2	0	0	0	0	No	DLBCL11436	Other	0	POS	0	0	0	0	0	2	0	0
+DLBCL11437	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	84	2	0.82	2	2	Intermediate	3	0	0	0	0	No	DLBCL11437	ST2	0	NEG	0	1	0	0	0	3	0	1
+DLBCL11438	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	73	3	0.76	0	0	Intermediate	2	0	9.00752909	0	9.00752909	Yes	DLBCL11438	Other	0	POS	0	0	0	0	0	2	0	0
+DLBCL11439	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	45	2	1.11	0			12	0	7.556468172	0	7.556468172	Yes	DLBCL11439	ST2	0	NEG	0	1	0	0	0		1	
+DLBCL11440	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	74	4	4.03	1	1	Intermediate	3	1	3.665982204	1	1.270362765	Yes	DLBCL11440	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL11441	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	F	16	1	-1	1	0	Low	0	0	7.997262149	0	7.997262149	Yes	DLBCL11441	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11443	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	M	62	1	0.2	1	0	Low	1	0	1.483915127	0	1.483915127	Yes	DLBCL11443	BN2	0	NEG	0	0	1	0	0	1	0	0
+DLBCL11444	phs001444	Diffuse large B cell lymphoma	Unclass	EZB	Pre-treatment	Immunochemotherapy	F	62	2	0.72	1	0	Low	1	0	8.235455168	1	4.635181383	Yes	DLBCL11444	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL11445	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	66	4	7.17	2	1	High	4	0	3.531827515	0	3.531827515	Yes	DLBCL11445	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL11446	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	63						15	0	0	0	0	No	DLBCL11446	Other	0	NEG	0	0	0	0	0			
+DLBCL11447	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	70	2		2	2		34	0	0	0	0	No	DLBCL11447	MCD	0	NEG	1	0	0	0	0			1
+DLBCL11448	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	77						15	0	0	0	0	No	DLBCL11448	MCD	0	NEG	1	0	0	0	0			
+DLBCL11449	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	61						15	0	0	0	0	No	DLBCL11449	Other	0	NEG	0	0	0	0	0			
+DLBCL11450	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	68						15	0	0	0	0	No	DLBCL11450	MCD/A53	1	NEG	1	0	0	0	0			
+DLBCL11451	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	73	1	0.57	0	0	Low	1	0	0.380561259	0	0.380561259	Yes	DLBCL11451	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11452	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	F	35	2	1.13	1	0	Low	1	0	7.665982204	0	7.665982204	Yes	DLBCL11452	BN2	0	NEG	0	0	1	0	0	1	1	0
+DLBCL11453	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	21	4	3.08	1	2	Intermediate	3	1	0.402464066	1	0.399726215	Yes	DLBCL11453	Other	0	NEG	0	0	0	0	0	3	1	1
+DLBCL11454	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F							5	0	0	0	0	No	DLBCL11454	BN2	0	NEG	0	0	1	0	0			
+DLBCL11455	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	59	3	2	1	1	Intermediate	2	0	0	0	0	No	DLBCL11455	ST2	0	NEG	0	1	0	0	0	2	1	0
+DLBCL11456	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	82	3	0.96	3	0	Intermediate	3	0	0	0	0	No	DLBCL11456	Other	0	NEG	0	0	0	0	0	3	0	0
+DLBCL11457	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	F	55	3	0.62	2	0	Intermediate	2	0	0	0	0	No	DLBCL11457	BN2	0	NEG	0	0	1	0	0	2	0	0
+DLBCL11458	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	70	4	1.01	3	1	High	4	0	0	0	0	No	DLBCL11458	EZB	0	NEG	0	0	0	1	0	4	1	0
+DLBCL11459	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	58	4	5.68	3	2	High	4	0	0	0	0	No	DLBCL11459	ST2	0	NEG	0	1	0	0	0	4	1	1
+DLBCL11460	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	59	4	1.822727273	2	3	High	4	0	0	0	0	No	DLBCL11460	ST2	0	NEG	0	1	0	0	0	4	1	1
+DLBCL11461	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	64	4		2	3	High	45	0	0	0	0	No	DLBCL11461	BN2	0	NEG	0	0	1	0	0			1
+DLBCL11462	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	78	1	0.52	2	1	Intermediate	2	0	0	0	0	No	DLBCL11462	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11463	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	69	4	5.66	3	3	High	5	0	0	0	0	No	DLBCL11463	BN2	0	NEG	0	0	1	0	0	5	1	1
+DLBCL11464	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	75	3		3	1		34	0	0	0	0	No	DLBCL11464	BN2	0	NEG	0	0	1	0	0			0
+DLBCL11466	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	60	1	0.72	1	0	Low	0	0	0	0	0	No	DLBCL11466	N1	0	NEG	0	0	0	0	1	1	0	0
+DLBCL11467	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	65	1	0.63	1	0	Low	1	0	0	0	0	No	DLBCL11467	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11468	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	64	4	3.728571429	4	1	High	4	0	0	0	0	No	DLBCL11468	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL11469	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	65	4	2.22	2	1	High	4	0	0	0	0	No	DLBCL11469	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL11470	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	F	46	3	1.24	3	0	Intermediate	3	0	0	0	0	No	DLBCL11470	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL11471	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	45	2	0.88	1	1	Low	0	0	0	0	0	No	DLBCL11471	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11472	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	79	1		2	1	Intermediate	23	0	0	0	0	No	DLBCL11472	Other	0	NEG	0	0	0	0	0			0
+DLBCL11473	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	59	4	2.38	2	5	High	4	0	0	0	0	No	DLBCL11473	BN2	0	NEG	0	0	1	0	0	4	1	1
+DLBCL11474	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	43	3	0.72	1	0	Low	1	0	0	0	0	No	DLBCL11474	BN2	0	NEG	0	0	1	0	0	1	0	0
+DLBCL11475	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	75	4	1	1	0	Intermediate	2	0	0	0	0	No	DLBCL11475	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11476	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	78	3	0.961904762	2	0	Intermediate	3	0	0	0	0	No	DLBCL11476	Other	0	NEG	0	0	0	0	0	3	0	0
+DLBCL11477	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	65	4	0.05	3	1	Intermediate	3	0	0	0	0	No	DLBCL11477	BN2	0	NEG	0	0	1	0	0	3	0	0
+DLBCL11478	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	61	4	1.41	2	1	High	4	0	0	0	0	No	DLBCL11478	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL11479	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	62				1		14	0	0	0	0	No	DLBCL11479	Other	0	POS	0	0	0	0	0			0
+DLBCL11480	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	53	4	1.5	3	1	Intermediate	3	0	0	0	0	No	DLBCL11480	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL11481	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	71	2	1.2	2	1	Intermediate	3	0	0	0	0	No	DLBCL11481	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL11482	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	79	3	1.17	3	0	High	4	0	0	0	0	No	DLBCL11482	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL11483	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	35	4	0.927272727	2	1	Intermediate	2	0	0	0	0	No	DLBCL11483	Other	0	NEG	0	0	0	0	0	2	0	0
+DLBCL11484	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	68	4	5.045454545	3	3	High	5	0	0	0	0	No	DLBCL11484	Other	0	NEG	0	0	0	0	0	5	1	1
+DLBCL11485	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	39	2	0.87	0	0	Low	0	0	9.448323066	0	9.448323066	Yes	DLBCL11485	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11486	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M							5	0	0	0	0	No	DLBCL11486	MCD	0	NEG	1	0	0	0	0			
+DLBCL11487	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M							5	0	0	0	0	No	DLBCL11487	Other	0	NEG	0	0	0	0	0			
+DLBCL11488	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	F	53	2	2	0	1	Low	1	1	1.467488022	1	0.919917864	Yes	DLBCL11488	BN2	0	NEG	0	0	1	0	0	1	1	0
+DLBCL11489	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Relapse	NA	F	56	4	0	0	2	Intermediate	2	0	0	0	0	No	DLBCL11489	MCD/ST2	0	NEG	1	1	0	0	0	2	0	1
+DLBCL11490	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	F	38		1.755263158		1		13	0	0	0	0	No	DLBCL11490	BN2	0	NEG	0	0	1	0	0		1	0
+DLBCL11491	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	71	1	2	0	0	Intermediate	2	0	0	0	0	No	DLBCL11491	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL11492	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	M	57	4		5	1	Intermediate	23	0	0	0	0	No	DLBCL11492	Other	0	NEG	0	0	0	0	0			0
+DLBCL11493	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	F	60	4	2	0	1	Intermediate	2	0	0	0	0	No	DLBCL11493	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL11494	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Relapse	NA	F	81	3	2	2	0	High	4	0	0	0	0	No	DLBCL11494	BN2	0	NEG	0	0	1	0	0	4	1	0
+DLBCL11495	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	73	3		0	0	Intermediate	23	0	0	0	0	No	DLBCL11495	MCD	0	NEG	1	0	0	0	0			0
+DLBCL11496	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	66	4	2	0	3	High	4	0	0	0	0	No	DLBCL11496	BN2	0	NEG	0	0	1	0	0	4	1	1
+DLBCL11497	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	M	61	2	2	0	1	Intermediate	2	0	0	0	0	No	DLBCL11497	EZB	0	NEG	0	0	0	1	0	2	1	0
+DLBCL11498	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	53	1	2	0	0	Low	1	0	0.281998631	0	0.281998631	Yes	DLBCL11498	BN2/A53	1	NEG	0	0	1	0	0	1	1	0
+DLBCL11499	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	M	54	1	2	1	0	Low	1	0	0	0	0	No	DLBCL11499	Other	0	NEG	0	0	0	0	0	1	1	0
+DLBCL11500	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	F	61	3	2	3	0	High	4	0	0	0	0	No	DLBCL11500	MCD	0	NEG	1	0	0	0	0	4	1	0
+DLBCL11501	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	60	4	2	1	2	Intermediate	3	0	0	0	0	No	DLBCL11501	Other	0	NEG	0	0	0	0	0	3	1	1
+DLBCL11503	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	Immunochemotherapy	F	69	3	2	1	1	Intermediate	3	0	0.438056126	0	0.438056126	Yes	DLBCL11503	N1	0	NEG	0	0	0	0	1	3	1	0
+DLBCL11504	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	70	3	1.12	0	0	Intermediate	3	0	9.861738535	1	0.481861739	Yes	DLBCL11504	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL11506	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	71	3			0		24	0	6.943189596	0	6.943189596	Yes	DLBCL11506	BN2	0	NEG	0	0	1	0	0			0
+DLBCL11507	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	82	1.5	0.64	1.5	0		12	0	0	0	0	No	DLBCL11507	A53	1	NEG	0	0	0	0	0	2	0	0
+DLBCL11508	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	M	56	2		2			13	1	9.686516085	1		Yes	DLBCL11508	BN2	0	NEG	0	0	1	0	0			
+DLBCL11509	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	55	4	0.77	1	3	Intermediate	2	0	7.080082136	0	7.080082136	Yes	DLBCL11509	Other	0	NEG	0	0	0	0	0	2	0	1
+DLBCL11510	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	34	3	0.8	0	0	Low	1	0	1.894592745	1	1.486652977	Yes	DLBCL11510	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11511	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	84	3	1.99	2		High	45	0	0	0	0	No	DLBCL11511	BN2	0	NEG	0	0	1	0	0		1	
+DLBCL11512	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	Immunochemotherapy	F	55	3	2.7		0	Intermediate	23	0	2.529774127	0	2.529774127	Yes	DLBCL11512	BN2/ST2	0	NEG	0	1	1	0	0		1	0
+DLBCL11513	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	Immunochemotherapy	F	49	4	30.76	1	4	Intermediate	3	1	0.306639288	1	0.306639288	Yes	DLBCL11513	N1	0	NA	0	0	0	0	1	3	1	1
+DLBCL11514	phs001444	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	Immunochemotherapy	F	86	3	1.23	2	3	High	5	0	1.639972621	0	1.639972621	Yes	DLBCL11514	MCD	0	NA	1	0	0	0	0	5	1	1
+DLBCL11515	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	M	67	2	0.93	0	1	Low	1	0	7.181382615	0	7.181382615	Yes	DLBCL11515	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11516	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	51						4	0	0	0	0	No	DLBCL11516	Other	0	NEG	0	0	0	0	0			
+DLBCL11517	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	74	2	-1	1	1	Low	1	1	2.702258727	1	2.702258727	Yes	DLBCL11517	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11518	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	38	2	0.99	2	1	Low	1	0	0	0	0	No	DLBCL11518	BN2	0	NEG	0	0	1	0	0	1	0	0
+DLBCL11519	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	32	3		2	0	Intermediate	23	0	0	0	0	No	DLBCL11519	Other	0	NEG	0	0	0	0	0			0
+DLBCL11520	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	35	4	1.040909091	2	1	Intermediate	3	0	0	0	0	No	DLBCL11520	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL11523	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	56	4	2.22	3	2	High	4	0	8.369609856	0	8.369609856	Yes	DLBCL11523	Other	0	NEG	0	0	0	0	0	4	1	1
+DLBCL11525	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	79	2	2.77	2	0	Intermediate	3	1	0.191649555	1	0.156057495	Yes	DLBCL11525	Other	0	POS	0	0	0	0	0	3	1	0
+DLBCL11526	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	78	3	1.19	0	0	Intermediate	3	1	10.54346338	1	10.54346338	Yes	DLBCL11526	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL11527	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	54	1	1	1	0	Low	0	0	12.27926078	0	12.27926078	Yes	DLBCL11527	EZB	0	POS	0	0	0	1	0	0	0	0
+DLBCL11528	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	58	1	0.7	1	1	Low	0	0	9.453798768	0	9.453798768	Yes	DLBCL11528	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11530	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	59	3	5.25	1		Intermediate	23	0	0.5229295	0	0.5229295	Yes	DLBCL11530	EZB/A53	1	POS	0	0	0	1	0		1	
+DLBCL11531	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	36	2	0.656	1	0	Low	0	0	8.167008898	0	8.167008898	Yes	DLBCL11531	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11532	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	77	4	1.43	1	1	Intermediate	3	1	2.299794661	1	2.299794661	Yes	DLBCL11532	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL11533	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	57	3	1.2	2	1	Intermediate	3	0	9.481177276	0	9.481177276	Yes	DLBCL11533	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL11534	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	58	2		1	1	Low	1	1	1.856262834	1	1.856262834	Yes	DLBCL11534	Other	0	NEG	0	0	0	0	0			0
+DLBCL11535	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	65	2	0.93	0	0	Low	1	0	8.161533196	0	8.161533196	Yes	DLBCL11535	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11536	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	76	3	-1	1	0	Intermediate	2	1	6.95687885	1	6.95687885	Yes	DLBCL11536	A53	1	NEG	0	0	0	0	0	2	0	0
+DLBCL11537	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	M	58	3	1.02	2	0	Intermediate	3	0	3.991786448	0	3.991786448	Yes	DLBCL11537	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL11538	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	77	2	0.72	1	0	Low	1	0	0	0	0	No	DLBCL11538	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11539	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	F	52	4			1		13	0	10.33264887	0	10.33264887	Yes	DLBCL11539	BN2	0	NEG	0	0	1	0	0			0
+DLBCL11540	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	48	2	0.9	1	0	Low	0	0	6.590006845	0	6.590006845	Yes	DLBCL11540	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11541	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	69	4	1.51	1	1	Intermediate	3	0	4.117727584	0	4.117727584	Yes	DLBCL11541	Other	0	NEG	0	0	0	0	0	3	1	0
+DLBCL11542	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	77	4	-1	1	1	Intermediate	2	0	11.56468172	0	11.56468172	Yes	DLBCL11542	EZB	0	NEG	0	0	0	1	0	2	0	0
+DLBCL11558	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	52	2	0.79	1	1	Low	0	0	8.563997262	0	8.563997262	Yes	DLBCL11558	EZB	0	NEG	0	0	0	1	0	0	0	0
+DLBCL11559	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	57	1	0.68	1	1	Low	0	0	8.714579055	0	8.714579055	Yes	DLBCL11559	EZB	0	NEG	0	0	0	1	0	0	0	0
+DLBCL11560	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	41	3	0.78	1	0	Low	1	0	5.768651608	0	5.768651608	Yes	DLBCL11560	ST2	0	NEG	0	1	0	0	0	1	0	0
+DLBCL11561	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	59	2	0.86	0	0	Low	0	0	8.780287474	0	8.780287474	Yes	DLBCL11561	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11562	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	83	1	0.96	1	0	Low	1	1	9.883641342	1	9.883641342	Yes	DLBCL11562	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL11563	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	35	1	0.7	0	1	Low	0	0	6.683093771	0	6.683093771	Yes	DLBCL11563	EZB	0	NEG	0	0	0	1	0	0	0	0
+DLBCL11564	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	56	1	0.805825243	1	1	Low	0	0	12.5338809	0	12.5338809	Yes	DLBCL11564	ST2	0	NEG	0	1	0	0	0	0	0	0
+DLBCL11565	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	43	3	0.5	0			12	0	7.997262149	0	7.997262149	Yes	DLBCL11565	Other	0	NEG	0	0	0	0	0		0	
+DLBCL11566	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	59	3	1.82				24	0	0	0	0	No	DLBCL11566	EZB	0	POS	0	0	0	1	0		1	
+DLBCL11567	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	83	2	0.9	3	0	Intermediate	2	0	0	0	0	No	DLBCL11567	EZB	0	NA	0	0	0	1	0	2	0	0
+DLBCL11568	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	74	2	0.75	1	1	Low	1	0	7.586584531	0	7.586584531	Yes	DLBCL11568	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL11569	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	59	2	2.42		1		12	1	0.34770705	1	0.117727584	Yes	DLBCL11569	EZB	0	POS	0	0	0	1	0		1	0
+DLBCL11570	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	66	3	0.9	0	0	Intermediate	2	0	8.887063655	0	8.887063655	Yes	DLBCL11570	A53	1	NEG	0	0	0	0	0	2	0	0
+DLBCL11571	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	61	4	1.09	2	1	High	4	0	8.131416838	0	8.131416838	Yes	DLBCL11571	ST2	0	NEG	0	1	0	0	0	4	1	0
+DLBCL11572	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	68	3	1.88	3	0	High	4	1	6.220396988	1	6.220396988	Yes	DLBCL11572	EZB	0	NEG	0	0	0	1	0	4	1	0
+DLBCL11573	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	49	3	14.84	2	0	Intermediate	3	0	7.315537303	0	7.315537303	Yes	DLBCL11573	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL11574	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	76	1	0.52	0	0	Low	1	0	6.584531143	0	6.584531143	Yes	DLBCL11574	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11575	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	60	2	3.67	3	0	Intermediate	2	0	11.55373032	0	11.55373032	Yes	DLBCL11575	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL11576	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	82	2	2.44	1	1	Intermediate	2	1	1.754962355	1	1.754962355	Yes	DLBCL11576	EZB	0	NEG	0	0	0	1	0	2	1	0
+DLBCL11577	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	60	1	1.12	1	1	Low	1	0	2.836413415	0	2.836413415	Yes	DLBCL11577	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL11578	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	68	1	0.99	1	0	Low	1	0	8.041067762	0	8.041067762	Yes	DLBCL11578	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11579	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	79	2	1.08	1	0	Intermediate	2	1	8.388774812	1	8.388774812	Yes	DLBCL11579	Other	0	POS	0	0	0	0	0	2	1	0
+DLBCL11580	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	M	65	4	2.88	3	3	High	5	0	9.273100616	1	2.231348392	Yes	DLBCL11580	Other	0	NA	0	0	0	0	0	5	1	1
+DLBCL11581	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M							5	0	0	0	0	No	DLBCL11581	EZB	0	NEG	0	0	0	1	0			
+DLBCL11584	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	50	4	2	0	2	Intermediate	3	0	1.489390828	0	1.489390828	Yes	DLBCL11584	EZB	0	POS	0	0	0	1	0	3	1	1
+DLBCL11585	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	56	4	2	1	1	Intermediate	2	0	1.489390828	0	1.489390828	Yes	DLBCL11585	EZB	0	NEG	0	0	0	1	0	2	1	0
+DLBCL11586	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	M	49	4	2	0	3	Intermediate	3	0	1.127994524	0	1.127994524	Yes	DLBCL11586	BN2	0	POS	0	0	1	0	0	3	1	1
+DLBCL11587	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M							5	0	0	0	0	No	DLBCL11587	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11589	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	F	83	4	2	0	2	High	4	0	0	0	0	No	DLBCL11589	EZB	0	POS	0	0	0	1	0	4	1	1
+DLBCL11590	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	F	63	1	0	0	0	Low	1	0	0.793976728	0	0.793976728	Yes	DLBCL11590	EZB	0	NEG	0	0	0	1	0	1	0	0
+DLBCL11591	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	67	3	2	0	0	Intermediate	3	0	0.583162218	0	0.583162218	Yes	DLBCL11591	EZB/A53	1	NEG	0	0	0	1	0	3	1	0
+DLBCL11595	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	Immunochemotherapy	F	84	2	1.18	1	0	Intermediate	2	0	0.783025325	0	0.783025325	Yes	DLBCL11595	MCD	0	NEG	1	0	0	0	0	2	1	0
+DLBCL11596	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	77	3	1.32	4	0	High	4	0	0	0	0	No	DLBCL11596	Other	0	NEG	0	0	0	0	0	4	1	0
+DLBCL11646	phs001444	Diffuse large B cell lymphoma	ABC	Other	Relapse	NA	M	76						15	0	0	0	0	No	DLBCL11646	Other	0	NEG	0	0	0	0	0			
+DLBCL11648	phs001444	Diffuse large B cell lymphoma	ABC	N1	Relapse	NA	M	61						15	0	0	0	0	No	DLBCL11648	N1	0	NEG	0	0	0	0	1			
+DLBCL11649	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Relapse	NA	M	38						4	0	0	0	0	No	DLBCL11649	Other	0	NEG	0	0	0	0	0			
+DLBCL11651	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	65	3	0.92	2	0	Intermediate	3	0	0	0	0	No	DLBCL11651	EZB	0	NEG	0	0	0	1	0	3	0	0
+DLBCL11652	phs001444	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	52	3	0.92	0	0	Low	1	0	0	0	0	No	DLBCL11652	BN2	0	NEG	0	0	1	0	0	1	0	0
+DLBCL11655	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	F	46	2	2	1	1	Low	1	0	0.41889117	0	0.41889117	Yes	DLBCL11655	BN2/ST2	0	NEG	0	1	1	0	0	1	1	0
+DLBCL11656	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	69	2	2	1	1	Intermediate	2	0	0	0	0	No	DLBCL11656	EZB	0	NEG	0	0	0	1	0	2	1	0
+DLBCL11657	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	28	2	2	0	2	Intermediate	2	0	0	0	0	No	DLBCL11657	EZB	0	NEG	0	0	0	1	0	2	1	1
+DLBCL11658	phs001444	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	M	61	2		2	1	Intermediate	23	0	0	0	0	No	DLBCL11658	N1	0	NEG	0	0	0	0	1			0
+DLBCL11659	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	63	1	1.43	1	0	Intermediate	2	0	0	0	0	No	DLBCL11659	Other	0	NEG	0	0	0	0	0	2	1	0
+DLBCL11660	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	M	66	4	1.49	2	3	High	5	1	0.8678987	1	0.785763176	Yes	DLBCL11660	Other	0	NEG	0	0	0	0	0	5	1	1
+DLBCL11661	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	36	4	6.71	2	2	High	4	0	0	0	0	No	DLBCL11661	A53	1	POS	0	0	0	0	0	4	1	1
+DLBCL11662	phs001444	Diffuse large B cell lymphoma	ABC	BN2	Pre-treatment	Immunochemotherapy	M	71	3	1.57	0	0	Intermediate	3	0	12.39151266	0	12.39151266	Yes	DLBCL11662	BN2	0	NEG	0	0	1	0	0	3	1	0
+DLBCL11663	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	54	4	0.8	2	2	Intermediate	3	1	5.492128679	1	5.492128679	Yes	DLBCL11663	Other	0	NEG	0	0	0	0	0	3	0	1
+DLBCL11664	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	61	3	1.53	1	0	Intermediate	3	0	9.46201232	1	0.985626283	Yes	DLBCL11664	EZB	0	NEG	0	0	0	1	0	3	1	0
+DLBCL11665	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	Immunochemotherapy	F	77	1	0.76	1	1	Low	1	0	0.618754278	0	0.618754278	Yes	DLBCL11665	ST2	0	NEG	0	1	0	0	0	1	0	0
+DLBCL11666	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	59	3	0.92	3		Intermediate	23	0	0	0	0	No	DLBCL11666	EZB	0	NEG	0	0	0	1	0		0	
+DLBCL11667	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	48	3	0.79	1	0	Low	1	1	1.733059548	1	0.977412731	Yes	DLBCL11667	EZB	0	POS	0	0	0	1	0	1	0	0
+DLBCL11668	phs001444	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	F	44						4	0	0	0	0	No	DLBCL11668	BN2	0	NEG	0	0	1	0	0			
+DLBCL11669	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	44						4	0	0	0	0	No	DLBCL11669	EZB	0	NEG	0	0	0	1	0			
+DLBCL11670	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	75						15	0	0	0	0	No	DLBCL11670	EZB	0	POS	0	0	0	1	0			
+DLBCL11671	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	F	48						4	0	0	0	0	No	DLBCL11671	BN2	0	NEG	0	0	1	0	0			
+DLBCL11672	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	F	74						15	0	0	0	0	No	DLBCL11672	EZB	0	NEG	0	0	0	1	0			
+DLBCL11673	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	72						15	0	0	0	0	No	DLBCL11673	Other	0	NEG	0	0	0	0	0			
+DLBCL11674	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	30						4	0	0	0	0	No	DLBCL11674	Other	0	NEG	0	0	0	0	0			
+DLBCL11675	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	M	78						15	0	0	0	0	No	DLBCL11675	EZB	0	NEG	0	0	0	1	0			
+DLBCL11676	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	68						15	0	0	0	0	No	DLBCL11676	EZB	0	NEG	0	0	0	1	0			
+DLBCL11677	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	86						15	0	0	0	0	No	DLBCL11677	Other	0	NEG	0	0	0	0	0			
+DLBCL11678	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	73	3	1.05	2	0	High	4	1	0.873374401	1	0.848733744	Yes	DLBCL11678	EZB	0	POS	0	0	0	1	0	4	1	0
+DLBCL11679	phs001444	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	Immunochemotherapy	F	68	1	1.32	0	0	Intermediate	2	0	6.496919918	0	6.496919918	Yes	DLBCL11679	BN2	0	NEG	0	0	1	0	0	2	1	0
+DLBCL11680	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	F	76	3	0.91	1	0	Intermediate	2	0	8.66255989	0	8.66255989	Yes	DLBCL11680	EZB	0	NEG	0	0	0	1	0	2	0	0
+DLBCL11681	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	46	2			0		2	0	0	0	0	No	DLBCL11681	EZB	0	NEG	0	0	0	1	0			0
+DLBCL11682	phs001444	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	Immunochemotherapy	M	23	3	0.9	1	0	Low	1	0	7.808350445	0	7.808350445	Yes	DLBCL11682	Other	0	NEG	0	0	0	0	0	1	0	0
+DLBCL11683	phs001444	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	43	2	0.9	1	0	Low	0	0	0	0	0	No	DLBCL11683	Other	0	NEG	0	0	0	0	0	0	0	0
+DLBCL11684	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	65	2		1	0		12	0	6.71321013	0	6.71321013	Yes	DLBCL11684	EZB	0	POS	0	0	0	1	0			0
+DLBCL11685	phs001444	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	Immunochemotherapy	M	47	4	2.07	1	2	Intermediate	3	1	6.105407255	1	2.351813826	Yes	DLBCL11685	EZB	0	POS	0	0	0	1	0	3	1	1
+TCGA-FA-8693	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	75	1			1		13	0	0	0	0	No	TCGA-FA-8693	ST2	0	NEG	0	1	0	0	0			0
+TCGA-FA-A4BB	phs000178	Diffuse large B cell lymphoma	Unclass	BN2	Pre-treatment	NA	M	67	4			2		35	0	0	0	0	No	TCGA-FA-A4BB	BN2	0	NEG	0	0	1	0	0			1
+TCGA-FA-A4XK	phs000178	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	40	2			1		2	0	0	0	0	No	TCGA-FA-A4XK	Other	0	NEG	0	0	0	0	0			0
+TCGA-FA-A6HN	phs000178	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	M	73						15	0	0	0	0	No	TCGA-FA-A6HN	ST2	0	NEG	0	1	0	0	0			
+TCGA-FA-A6HO	phs000178	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	58						4	0	0	0	0	No	TCGA-FA-A6HO	A53	1	NEG	0	0	0	0	0			
+TCGA-FA-A7DS	phs000178	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	54	2			1		2	0	0	0	0	No	TCGA-FA-A7DS	MCD	0	NEG	1	0	0	0	0			0
+TCGA-FA-A7Q1	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	61	1					14	0	0	0	0	No	TCGA-FA-A7Q1	BN2	0	POS	0	0	1	0	0			
+TCGA-FA-A82F	phs000178	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	48	2			1		2	0	0	0	0	No	TCGA-FA-A82F	MCD/A53	1	NEG	1	0	0	0	0			0
+TCGA-FA-A86F	phs000178	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	64	3					25	0	0	0	0	No	TCGA-FA-A86F	Other	0	NEG	0	0	0	0	0			
+TCGA-FF-8041	phs000178	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	F	28	1	1.313157895	0			12	0	0	0	0	No	TCGA-FF-8041	BN2	0	NEG	0	0	1	0	0		1	
+TCGA-FF-8042	phs000178	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	57	2	1.213157895	0			12	0	0	0	0	No	TCGA-FF-8042	Other	0	POS	0	0	0	0	0		1	
+TCGA-FF-8043	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	70	2	1.410526316	1	1	Intermediate	2	0	0	0	0	No	TCGA-FF-8043	Other	0	NEG	0	0	0	0	0	2	1	0
+TCGA-FF-8046	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	51	2	1.639473684	0			12	0	0	0	0	No	TCGA-FF-8046	Other	0	POS	0	0	0	0	0		1	
+TCGA-FF-8061	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	42	2	1.089473684	0	1	Low	1	0	0	0	0	No	TCGA-FF-8061	ST2	0	NEG	0	1	0	0	0	1	1	0
+TCGA-FF-8062	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	60	1	1.794736842	0	1	Low	1	0	0	0	0	No	TCGA-FF-8062	Other	0	NEG	0	0	0	0	0	1	1	0
+TCGA-FF-A7CQ	phs000178	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	74	4	2.573684211	3	6	High	5	0	0	0	0	No	TCGA-FF-A7CQ	MCD	0	NEG	1	0	0	0	0	5	1	1
+TCGA-FF-A7CR	phs000178	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	61	4	1.173684211	0	2	High	4	0	0	0	0	No	TCGA-FF-A7CR	MCD	0	NEG	1	0	0	0	0	4	1	1
+TCGA-FF-A7CW	phs000178	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	72	2	1.121052632	0	1	Intermediate	2	0	0	0	0	No	TCGA-FF-A7CW	Other	0	NEG	0	0	0	0	0	2	1	0
+TCGA-FF-A7CX	phs000178	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	M	46	4	1.878947368	0	4	Intermediate	3	0	0	0	0	No	TCGA-FF-A7CX	ST2	0	NEG	0	1	0	0	0	3	1	1
+TCGA-FM-8000	phs000178	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	F	70	2	1.234615385		2		34	0	0	0	0	No	TCGA-FM-8000	EZB	0	NEG	0	0	0	1	0		1	1
+TCGA-G8-6324	phs000178	Diffuse large B cell lymphoma	ABC	N1	Pre-treatment	NA	F	43	4	0.805825243	1	1	Low	1	0	0	0	0	No	TCGA-G8-6324	N1	0	NEG	0	0	0	0	1	1	0	0
+TCGA-G8-6325	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	69	4		1	0	Intermediate	23	0	0	0	0	No	TCGA-G8-6325	Other	0	NEG	0	0	0	0	0			0
+TCGA-G8-6326	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	52	4	1.55987055	0	2	Intermediate	3	0	0	0	0	No	TCGA-G8-6326	Other	0	NEG	0	0	0	0	0	3	1	1
+TCGA-G8-6906	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	58		1.756756757		1		13	0	0	0	0	No	TCGA-G8-6906	EZB	0	NEG	0	0	0	1	0		1	0
+TCGA-G8-6907	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	57	4	1.01618123		0	Intermediate	23	0	0	0	0	No	TCGA-G8-6907	Other	0	NEG	0	0	0	0	0		1	0
+TCGA-G8-6909	phs000178	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	M	67	3		0	0	Intermediate	23	0	0	0	0	No	TCGA-G8-6909	Other	0	NEG	0	0	0	0	0			0
+TCGA-G8-6914	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	67	3					25	0	0	0	0	No	TCGA-G8-6914	Other	0	NEG	0	0	0	0	0			
+TCGA-GR-A4D4	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	57	4	0.744791667	2	2	Intermediate	3	0	0	0	0	No	TCGA-GR-A4D4	Other	0	NEG	0	0	0	0	0	3	0	1
+TCGA-GR-A4D5	phs000178	Diffuse large B cell lymphoma	Unclass	Other	Pre-treatment	NA	F	46	4	1.377022654	1	3	Intermediate	3	0	0	0	0	No	TCGA-GR-A4D5	Other	0	NEG	0	0	0	0	0	3	1	1
+TCGA-GR-A4D6	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	54	1	0.625	0	0	Low	0	0	0	0	0	No	TCGA-GR-A4D6	Other	0	NEG	0	0	0	0	0	0	0	0
+TCGA-GR-A4D9	phs000178	Diffuse large B cell lymphoma	ABC	Other	Pre-treatment	NA	F	66	4	0.67961165	1	3	Intermediate	3	0	0	0	0	No	TCGA-GR-A4D9	EZB	0	NEG	0	0	0	1	0	3	0	1
+TCGA-GS-A9TQ	phs000178	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	F	69	2	0.808888889	1	0	Low	1	0	0	0	0	No	TCGA-GS-A9TQ	EZB	0	POS	0	0	0	1	0	1	0	0
+TCGA-GS-A9TV	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	40	2		0	0	Low	1	0	0	0	0	No	TCGA-GS-A9TV	Other	0	NEG	0	0	0	0	0			0
+TCGA-GS-A9TW	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	23	2	0.56	0	0	Low	0	0	0	0	0	No	TCGA-GS-A9TW	ST2	0	NEG	0	1	0	0	0	0	0	0
+TCGA-GS-A9TX	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	37	1	0.571111111	0	0	Low	0	0	0	0	0	No	TCGA-GS-A9TX	Other	0	NEG	0	0	0	0	0	0	0	0
+TCGA-GS-A9TZ	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	M	51	2		0	0	Low	1	0	0	0	0	No	TCGA-GS-A9TZ	ST2	0	NEG	0	1	0	0	0			0
+TCGA-RQ-A68N	phs000178	Diffuse large B cell lymphoma	ABC	MCD	Pre-treatment	NA	M	63				3		25	0	0	0	0	No	TCGA-RQ-A68N	MCD/A53	1	NEG	1	0	0	0	0			1
+TCGA-RQ-A6JB	phs000178	Diffuse large B cell lymphoma	GCB	EZB	Pre-treatment	NA	F	62				3		25	0	0	0	0	No	TCGA-RQ-A6JB	EZB	0	NEG	0	0	0	1	0			1
+TCGA-RQ-AAAT	phs000178	Diffuse large B cell lymphoma	GCB	Other	Pre-treatment	NA	F	63				1		14	0	0	0	0	No	TCGA-RQ-AAAT	A53	1	NEG	0	0	0	0	0			0
+TCGA-VB-A8QN	phs000178	Diffuse large B cell lymphoma	GCB	BN2	Pre-treatment	NA	M	55	3					14	0	0	0	0	No	TCGA-VB-A8QN	BN2	0	NEG	0	0	1	0	0			
