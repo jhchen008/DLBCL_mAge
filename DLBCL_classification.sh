@@ -165,6 +165,7 @@ LME_MODEL = KNeighborsClusterClassifier(norm=False, scale=False, clip=3, k=35).f
 
 ##################################################
 ##### DLBCL dataset: Schmitz et al NEJM 2018 #####
+## Expression matrix downloaded from: https://gdc.cancer.gov/about-data/publications/DLBCL-2018
 
 SAMPLE_EXPRESSION = './datasets/Schmitz_2018NEJM/RNAseq_gene_expression_562.formated.txt'
 
@@ -198,6 +199,7 @@ lme_predicted.to_csv('Schmitz_2018NEJM/lme_predicted.sample.csv', index=True)
 
 ##################################################
 ##### DLBCL dataset: Lacy et al Blood 2020 #####
+## Expression matrix downloaded from: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181063/matrix/
 
 SAMPLE_EXPRESSION = './datasets/Lacy_2020Blood/GSE181063_series_matrix.nor.DLBCL.txt'
 
@@ -231,6 +233,7 @@ lme_predicted.to_csv('Lacy_2020Blood/lme_predicted.sample.csv', index=True)
 
 ##################################################
 ##### DLBCL dataset: Sha et al JCO 2018 #####
+## Expression matrix downloaded from: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE117nnn/GSE117556/matrix/
 
 SAMPLE_EXPRESSION = './datasets/Sha_2018JCO/GSE117556_series_matrix.nor.symbol.txt'
 
@@ -264,6 +267,7 @@ lme_predicted.to_csv('Sha_2018JCO/lme_predicted.sample.csv', index=True)
 
 ##################################################
 ##### DLBCL dataset: Chapuy et al NatMed 2018 #####
+## Expression matrix downloaded from: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE98nnn/GSE98588/matrix/
 
 SAMPLE_EXPRESSION = './datasets/Chapuy_2018NatMed/GSE98588_series_matrix.nor.symbol.txt'
 
@@ -307,4 +311,5 @@ Rscript EcoTyper_recovery_bulk.R -d Lymphoma -m ./datasets/Lacy_2020Blood/GSE181
 Rscript EcoTyper_recovery_bulk.R -d Lymphoma -m ./datasets/Sha_2018JCO/GSE117556_series_matrix.nor.symbol.txt -o ./datasets/Sha_2018JCO/ecotyper
 
 Rscript EcoTyper_recovery_bulk.R -d Lymphoma -m ./datasets/Chapuy_2018NatMed/GSE98588_series_matrix.nor.symbol.txt -o ./datasets/Chapuy_2018NatMed/ecotyper
+
 
