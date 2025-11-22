@@ -1,3 +1,4 @@
+## codes for DLBCL classifications, including COO, LME, and Ecotypes
 
 #########################################################################
 ## COO classification by ABC/GCB gene sets
@@ -306,3 +307,4 @@ Rscript EcoTyper_recovery_bulk.R -d Lymphoma -m ./datasets/Lacy_2020Blood/GSE181
 Rscript EcoTyper_recovery_bulk.R -d Lymphoma -m ./datasets/Sha_2018JCO/GSE117556_series_matrix.nor.symbol.txt -o ./datasets/Sha_2018JCO/ecotyper
 
 Rscript EcoTyper_recovery_bulk.R -d Lymphoma -m ./datasets/Chapuy_2018NatMed/GSE98588_series_matrix.nor.symbol.txt -o ./datasets/Chapuy_2018NatMed/ecotyper
+
