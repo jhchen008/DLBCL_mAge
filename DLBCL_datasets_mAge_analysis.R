@@ -603,8 +603,7 @@ age_results_sub$mAge_aligned <- age_results_sub$mAge * scale_factor + shift_fact
 
 ## KM curve on actual cAge group
 age_results_sub$Age_group <- as.factor(cut(age_results_sub$ActualAge,
-                             # breaks = c(0, 40, 50, 60, 70, 80, 100),
-                             breaks = c(0, 44, 59, 74, 150),
+                             breaks = c(0, 45, 60, 75, 150),
                              labels = c("lt_45","45-59","60-74", "gt_75"),
                              right = FALSE))
 table(age_results_sub$Age_group)
@@ -646,8 +645,7 @@ dev.off()
 ## KM curves on actual mAge group
 ## PFS
 age_results_sub$Age_group <- as.factor(cut(age_results_sub$mAge_aligned,
-                             # breaks = c(0, 45, 55, 65, 75, 150),
-                             breaks = c(0, 44, 59, 74, 150),
+                             breaks = c(0, 45, 60, 75, 150),
                              labels = c("lt_45","45-59","60-74", "gt_75"),
                              right = FALSE))
 table(age_results_sub$Age_group)
@@ -688,8 +686,7 @@ dev.off()
 ## OS
 
 age_results_sub$Age_group <- as.factor(cut(age_results_sub$mAge_aligned,
-                             # breaks = c(0, 45, 55, 65, 75, 150),
-                             breaks = c(0, 44, 59, 74, 150),
+                             breaks = c(0, 45, 60, 75, 150),
                              labels = c("lt_45","45-59","60-74", "gt_75"),
                              right = FALSE))
 table(age_results_sub$Age_group)
