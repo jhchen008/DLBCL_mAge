@@ -797,8 +797,7 @@ dev.off()
 
 ## frequency of mAge_group by cAge groups
 age_results_sub$cAge_pct <- as.factor(cut(age_results_sub$ActualAge,
-                             # breaks = c(0, 45, 55, 65, 75, 150),
-                             breaks = c(0, 44, 59, 74, 150),
+                             breaks = c(0, 45, 60, 75, 150),
                              labels = c("<45","45-59","60-74", "≥75"),
                              right = FALSE))
 table(age_results_sub$cAge_pct)
@@ -849,15 +848,13 @@ dev.off()
 ##### cAge distributions vs mAge distributions ##### 
 
 age_results_sub$mAge_pct <- as.factor(cut(age_results_sub$mAge_aligned,
-                             # breaks = c(0, 45, 55, 65, 75, 150),
-                             breaks = c(0, 44, 59, 74, 150),
+                             breaks = c(0, 45, 60, 75, 150),
                              labels = c("lt_45","45-59","60-74", "gt_75"),
                              right = FALSE))
 table(age_results_sub$mAge_pct)
 
 age_results_sub$cAge_pct <- as.factor(cut(age_results_sub$ActualAge,
-                             # breaks = c(0, 45, 55, 65, 75, 150),
-                             breaks = c(0, 44, 59, 74, 150),
+                             breaks = c(0, 45, 60, 75, 150),
                              labels = c("lt_45","45-59","60-74", "gt_75"),
                              right = FALSE))
 table(age_results_sub$cAge_pct)
